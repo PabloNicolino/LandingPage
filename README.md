@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto LandingPage ele possui serviços que podem ser adicionados, como contato também, nela você coloca seu nome, e-mail também, é também pode criar uma conta, até o momento esse projeto e bem simples, mais ele pode ter muitas melhorias ainda, para ficar mais completo.
 
-- [Acesse o projeto finalizado, online](https://pablodpaula1.github.io/LandingPage/)
+- [Acesse o projeto finalizado, online](https://pablonicolino.github.io/LandingPage/)
 
 ## :memo: Licença
 
